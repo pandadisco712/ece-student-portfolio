@@ -17,3 +17,6 @@ I’m particularly interested in working at the intersection of software and har
 
 ## Goal
 To continuously learn, build small projects, and develop practical skills by exploring both coding and electronics.
+
+## Certifications
+- Automation and Control using Arduino (IO Course)
